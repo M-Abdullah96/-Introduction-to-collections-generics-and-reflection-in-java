@@ -24,6 +24,7 @@ public class lowerBoundedWildcards {
         list.add("abdullah");
         list.add("ali");
         list.add("usman");
+        list.add("usman ali");
         showAll(list);
 
         //insert items
