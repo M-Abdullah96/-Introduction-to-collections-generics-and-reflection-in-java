@@ -1,1 +1,2 @@
 # -Introduction-to-collections-generics-and-reflection-in-java
+This is the code files of a udemy course in java Awesome course, it exceeded my expectations for sure! The course mix theories and practices, where if you get a doubt during the theory explanation, in the practical session you will be fine. It enhances my knowledge of collections( list, vector, array, queue, set, maps, etc), bound types, type inference, wild cards, and reflections, etc. I would highly recommend this course to anyone who wants to make a strong base with the above mentioned topics.
